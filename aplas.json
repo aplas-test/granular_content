@@ -29,7 +29,6 @@
           "name": "INT-013",
           "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
           "description": "Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",
-          "sourceApplicationId": "granular_content",
           "targetApplicationId": "veribet",
           "logical_server": "CLOUD-A2A",
           "status_color": "#00FF00",
